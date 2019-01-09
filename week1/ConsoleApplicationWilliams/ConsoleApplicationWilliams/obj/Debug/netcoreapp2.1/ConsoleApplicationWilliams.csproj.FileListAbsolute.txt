@@ -1,0 +1,11 @@
+C:\Users\tayta\OneDrive\Documents\GitHub\cit365\week1\ConsoleApplicationWilliams\ConsoleApplicationWilliams\bin\Debug\netcoreapp2.1\ConsoleApplicationWilliams.deps.json
+C:\Users\tayta\OneDrive\Documents\GitHub\cit365\week1\ConsoleApplicationWilliams\ConsoleApplicationWilliams\bin\Debug\netcoreapp2.1\ConsoleApplicationWilliams.runtimeconfig.json
+C:\Users\tayta\OneDrive\Documents\GitHub\cit365\week1\ConsoleApplicationWilliams\ConsoleApplicationWilliams\bin\Debug\netcoreapp2.1\ConsoleApplicationWilliams.runtimeconfig.dev.json
+C:\Users\tayta\OneDrive\Documents\GitHub\cit365\week1\ConsoleApplicationWilliams\ConsoleApplicationWilliams\bin\Debug\netcoreapp2.1\ConsoleApplicationWilliams.dll
+C:\Users\tayta\OneDrive\Documents\GitHub\cit365\week1\ConsoleApplicationWilliams\ConsoleApplicationWilliams\bin\Debug\netcoreapp2.1\ConsoleApplicationWilliams.pdb
+C:\Users\tayta\OneDrive\Documents\GitHub\cit365\week1\ConsoleApplicationWilliams\ConsoleApplicationWilliams\obj\Debug\netcoreapp2.1\ConsoleApplicationWilliams.csprojAssemblyReference.cache
+C:\Users\tayta\OneDrive\Documents\GitHub\cit365\week1\ConsoleApplicationWilliams\ConsoleApplicationWilliams\obj\Debug\netcoreapp2.1\ConsoleApplicationWilliams.csproj.CoreCompileInputs.cache
+C:\Users\tayta\OneDrive\Documents\GitHub\cit365\week1\ConsoleApplicationWilliams\ConsoleApplicationWilliams\obj\Debug\netcoreapp2.1\ConsoleApplicationWilliams.AssemblyInfoInputs.cache
+C:\Users\tayta\OneDrive\Documents\GitHub\cit365\week1\ConsoleApplicationWilliams\ConsoleApplicationWilliams\obj\Debug\netcoreapp2.1\ConsoleApplicationWilliams.AssemblyInfo.cs
+C:\Users\tayta\OneDrive\Documents\GitHub\cit365\week1\ConsoleApplicationWilliams\ConsoleApplicationWilliams\obj\Debug\netcoreapp2.1\ConsoleApplicationWilliams.dll
+C:\Users\tayta\OneDrive\Documents\GitHub\cit365\week1\ConsoleApplicationWilliams\ConsoleApplicationWilliams\obj\Debug\netcoreapp2.1\ConsoleApplicationWilliams.pdb
