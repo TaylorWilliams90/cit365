@@ -74,6 +74,9 @@
     <Compile Include="SearchQuotes.Designer.cs">
       <DependentUpon>SearchQuotes.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AddQuote.resx">
+      <DependentUpon>AddQuote.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MegaDesk.resx">
       <DependentUpon>MegaDesk.cs</DependentUpon>
     </EmbeddedResource>

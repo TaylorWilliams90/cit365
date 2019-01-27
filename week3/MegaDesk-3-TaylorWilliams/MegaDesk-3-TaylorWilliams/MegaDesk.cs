@@ -17,9 +17,13 @@ namespace MegaDesk_3_TaylorWilliams
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
 
+        private void AddQuote_Click(object sender, EventArgs e)
+        {
+            AddQuote addNewQuoteForm = new AddQuote();
+            addNewQuoteForm.Tag = this;
+            addNewQuoteForm.Show(this);
+            Hide();
         }
     }
 }
