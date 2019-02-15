@@ -12,7 +12,7 @@ namespace MegaDesk_3_TaylorWilliams
         public double Depth { get; set; }
         public int NumbersOfDrawers { get; set; }
         public DesktopMaterial DesktopMaterial { get; set; }
-        public int ProductionTime { get; set; }
+        public RushTime ProductionTime { get; set; }
     }
 
     public enum DesktopMaterial
@@ -22,5 +22,13 @@ namespace MegaDesk_3_TaylorWilliams
         Oak = 200,
         RoseWood = 300,
         Veneer = 125,
+    }
+
+    public enum RushTime
+    {
+        Defualt = 14,
+        three = 3,
+        Five = 5,
+        Seven = 7,
     }
 }

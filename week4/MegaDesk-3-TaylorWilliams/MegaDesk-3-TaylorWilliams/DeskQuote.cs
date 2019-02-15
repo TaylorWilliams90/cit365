@@ -36,7 +36,7 @@ namespace MegaDesk_3_TaylorWilliams
             Desk.Depth = depth;
             Desk.NumbersOfDrawers = drawers;
             Desk.DesktopMaterial = material;
-            Desk.ProductionTime = rushDays;
+            Desk.ProductionTime.Value = rushDays;
 
         }
 

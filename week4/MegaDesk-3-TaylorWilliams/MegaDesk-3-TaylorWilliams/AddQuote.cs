@@ -18,6 +18,9 @@ namespace MegaDesk_3_TaylorWilliams
             // use List<T> to populate a comobox
             List<DesktopMaterial> MaterialList = Enum.GetValues(typeof(DesktopMaterial)).Cast<DesktopMaterial>().ToList();
             MaterialBox.DataSource = MaterialList;
+
+            List<RushTime> RushlList = Enum.GetValues(typeof(RushTime)).Cast<RushTime>().ToList();
+            DaysBox.DataSource = RushlList;
         }
 
         private void cancelQuoteButton_Click(object sender, EventArgs e)
